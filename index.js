@@ -1,0 +1,6 @@
+document.writeln('Sistema de identificação de alunos')
+var nome = window.prompt('Digite seu nome: ')
+var ano = window.prompt('Qual foi o ano em que voê nasceu?')
+var anoAtual = new Date().getFullYear()
+let dias = Number((anoAtual - ano) * 365)
+document.writeln(`Você ja viveu ${dias} dias.`)
