@@ -2,3 +2,11 @@
     background-color: rgb(171, 225, 253);
     font-family: monospace;
 }
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    float:right;
+}
