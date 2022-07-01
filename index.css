@@ -9,4 +9,10 @@ h1{
 
 h2{
     float:right;
+    margin-left: 10px;
+}
+
+h3{
+    float: left;
+    margin-right: 10px;
 }
